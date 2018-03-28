@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VIVOSMainApp.iml" filepath="$PROJECT_DIR$/VIVOSMainApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/VIVOSMainApp.iml" filepath="$PROJECT_DIR$/.idea/VIVOSMainApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
